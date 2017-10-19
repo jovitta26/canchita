@@ -1,0 +1,81 @@
+.cancha{
+    background: green;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+    padding: 10px;
+}
+
+#pasto{
+    background-color: green;
+    border: 2px solid white;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+
+}
+
+#arco1{
+     width: 100px;
+     height: 200px;
+     position: absolute;
+     border: 2px solid white;
+     bottom: 100px;
+     left: 510px;
+
+}
+
+#arco2{
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    border: 2px solid white;
+    bottom: 100px;
+    right: 506xp;
+
+}
+
+#circulo{
+  width: 150px;
+  height: 150px;
+  border-radius: 500px;
+  position: absolute;
+  top: 140px;
+  right: 120px;
+  left: 240px;
+  border:2px solid white;
+   }
+
+#balon1{
+  width: 15px;
+  height: 15px;
+  border-radius: 30px;
+  position: absolute;
+  top: 120px;
+  right: 240px;
+  left: 100px;
+  background:white;
+}
+#balon2{
+  width: 15px;
+  height: 15px;
+  border-radius: 30px;
+  position: absolute;
+  top: 100px;
+  right: 300px;
+  left: 330px;
+  background:white;
+}
+#balon3{
+  width: 15px;
+  height: 15px;
+  border-radius: 30px;
+  position: absolute;
+  top: 310px;
+  right:40px;
+  left: 490px;
+  background:white;
+}
+
+}
